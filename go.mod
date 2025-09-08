@@ -14,7 +14,7 @@ require (
 	golang.org/x/crypto v0.40.0
 	golang.org/x/image v0.29.0
 	golang.org/x/net v0.42.0
-	golang.org/x/oauth2 v0.30.0
+	golang.org/x/oauth2 v0.31.0
 	golang.org/x/term v0.33.0
 )
 
